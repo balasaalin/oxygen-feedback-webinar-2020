@@ -1,0 +1,1 @@
+This  webinar will be a walkthrough the features of the new Oxygen Feedback Comment Management Platform and a show case on how to use it in combination with Oxygen XML Editor to continuously improve your online documentation based on your community feedback.
