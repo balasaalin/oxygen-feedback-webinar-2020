@@ -336,7 +336,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>D:\projects\git\oxygen-feedback\oxygen-feedback\service-htdocs\garage\2</String>
+                                    <String>D:\projects\git\oxygen-feedback\oxygen-feedback\service-htdocs\garage\3</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${cfd}\temp</String>
@@ -378,7 +378,7 @@
                                 <field name="publishingTemplateDataPO">
                                     <publishingTemplate>
                                         <field name="templateRoot">
-                                            <String>D:/projects/git/oxygen-feedback-webinar-2020/publishing/material</String>
+                                            <String>D:/projects/git/oxygen-feedback-webinar-2020/publishing/material-bgr</String>
                                         </field>
                                         <field name="descriptorRelativePath">
                                             <String>material.opt</String>
@@ -568,7 +568,7 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="locationToOpenInBrowserURL">
-                                    <String>http://localhost:8090/service-htdocs/garage/2/index.html</String>
+                                    <String>http://localhost:8090/service-htdocs/garage/3/index.html</String>
                                 </field>
                                 <field name="openInEditor">
                                     <Boolean>false</Boolean>
