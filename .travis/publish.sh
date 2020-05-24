@@ -18,4 +18,4 @@ export ANT_OPTS="$ANT_OPTS -Dcwd=`pwd`"
 export ANT_OPTS="$ANT_OPTS -Drepo.url=github://getFileContent/$USERNAME/$REPONAME/$TRAVIS_BRANCH/"
 export ANT_OPTS="$ANT_OPTS -Dwebhelp.publishing.template.descriptor=$OPT_FILE -Dwebhelp.publishing.template=$OPT_DIR"
 
-tools/oxygen-publishing-engine-3.x/bin/dita -i $DITAMAP -f webhelp-responsive -o $OUT_DIR -t $TEMP_DIR --verbose
+tools/oxygen-publishing-engine-3.x/bin/dita -i $DITAMAP -f webhelp-responsive -o $OUT_DIR -t $TEMP_DIR
