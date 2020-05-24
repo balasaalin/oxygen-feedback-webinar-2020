@@ -1,4 +1,4 @@
-
+# Introducing the New Oxygen Feedback Commenting Platform
 This webinar will present the features of the new Oxygen Feedback comment management platform and showcase its use in conjunction with Oxygen XML Editor to continuously improve your online documentation based on your community feedback.
 
 Some of the topics covered in this webinar include:
@@ -11,7 +11,7 @@ Some of the topics covered in this webinar include:
 - Subscriptions model
 - Oxygen integration - accessing the comments stream directly in Oxygen
 
-
+## Additional resources:
 - The slides are available at: ...
 - Published Output: [https://balasaalin.github.io/oxygen-feedback-webinar-2020/](https://balasaalin.github.io/oxygen-feedback-webinar-2020/)
 - Travis CI: 
