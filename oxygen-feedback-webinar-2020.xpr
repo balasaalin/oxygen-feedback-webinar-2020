@@ -338,9 +338,6 @@
         </options>
     </meta>
     <projectTree name="oxygen-feedback-webinar-2020.xpr">
-        <folder name="XMLPrague20">
-            <folder path="../XML-Prague-2020/"/>
-        </folder>
         <folder path="."/>
     </projectTree>
 </project>
