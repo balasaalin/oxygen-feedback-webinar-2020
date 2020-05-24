@@ -1,0 +1,5 @@
+1. Delete site
+2. Unset Feedback fragment
+3. Regenerate the WH output.
+4. Reset the plugin options.
+5. Delete the EV battery task from the DM
