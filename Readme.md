@@ -10,3 +10,10 @@ Some of the topics covered in this webinar include:
 - Site statistics
 - Subscriptions model
 - Oxygen integration - accessing the comments stream directly in Oxygen
+
+
+- The slides are available at: ...
+- Published Output: [https://balasaalin.github.io/oxygen-feedback-webinar-2020/](https://balasaalin.github.io/oxygen-feedback-webinar-2020/)
+- Travis CI: 
+[https://travis-ci.com/balasaalin/oxygen-feedback-webinar-2020/](https://travis-ci.com/balasaalin/oxygen-feedback-webinar-2020/)
+- Oxygen Feedback Service: https://feedback.oxygenxml.com
