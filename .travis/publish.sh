@@ -6,6 +6,14 @@ REPONAME=`basename $PWD`
 PARENTDIR=`dirname $PWD`
 USERNAME=`basename $PARENTDIR`
 
+# Writes the license key in a file
+# Assumes that $LICENSE_KEY contains the license key with all /n's replaced by @@
+echo $LICENSE_KEY
+printf "%s" "$LICENSE_KEY" > tools/oxygen-publishing-engine-3.x/licensekey.txt
+sed -i 's/@@/\n/g' tools/oxygen-publishing-engine-3.x/licensekey.txt
+cat tools/oxygen-publishing-engine-3.x/licensekey.txt
+
+
 # Send some parameters to the "editlink" plugin as system properties
 export ANT_OPTS="$ANT_OPTS -Dditamap.path=$DITAMAP"
 export ANT_OPTS="$ANT_OPTS -Dcwd=`pwd`"
