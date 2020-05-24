@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
- "map.dtd">
+"map.dtd">
 <!-- This file is part of the DITA Open Toolkit project hosted on 
-     Sourceforge.net. See the accompanying license.txt file for 
-     applicable licenses.-->
+    Sourceforge.net. See the accompanying license.txt file for 
+    applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
-
-Modified by Syncro Soft 2016.
+    
+    Modified by Syncro Soft 2016.
 -->
 <map>
-  <title>Garage</title>
-  <topicref href="tasks/carMaintenance.dita" chunk="to-content">
-      <topicmeta>
-          <data name="wh-tile">
-              <data name="image" href="image/tiles/maintenance_big.png" format="png">
-                  <data name="attr-width" value="64"/>
-                  <data name="attr-height" value="64"/>
-              </data>
-          </data>  
-      </topicmeta>
+    <title>Garage</title>
+    <topicref href="tasks/carMaintenance.dita" chunk="to-content">
+        <topicmeta>
+            <data name="wh-tile">
+                <data name="image" href="image/tiles/maintenance_big.png" format="png">
+                    <data name="attr-width" value="64"/>
+                    <data name="attr-height" value="64"/>
+                </data>
+            </data>  
+        </topicmeta>
         <topicref href="tasks/changingtheoil.dita" type="task" audience="expert"/>
-        <topicref href="electric-cars/battery.dita"/>
+        
+        <!--<topicref href="electric-cars/battery.dita"/>-->
+        
         <topicref href="tasks/washingthecar.dita" type="task"/>
     </topicref>
     <topicref href="tasks/garagetaskoverview.dita" type="concept" audience="expert novice"

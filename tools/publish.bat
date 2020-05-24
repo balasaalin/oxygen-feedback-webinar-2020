@@ -1,0 +1,1 @@
+ oxygen-publishing-engine-3.x\bin\dita.bat --format=webhelp-responsive --input=..\dita\garage\garage.ditamap  --output=..\output --temp=..\temp -Dwebhelp.publishing.template.descriptor=material.opt -Dwebhelp.publishing.template=..\publishing\material --verbose
