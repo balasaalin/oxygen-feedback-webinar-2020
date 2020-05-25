@@ -10,16 +10,28 @@
    <appContext helpID="spraypaint" path="tasks/garagetaskoverview.html#spraypaint"/>
    <appContext helpID="takinggarbage"
                path="tasks/garagetaskoverview.html#takinggarbage"/>
-   <appContext helpID="conceptconcept" path="concepts/garageconceptsoverview.html"/>
-   <appContext helpID="lawnmowerconcept" path="concepts/lawnmower.html"/>
-   <appContext helpID="oilconcept" path="concepts/oil.html"/>
-   <appContext helpID="paintconcept" path="concepts/paint.html"/>
-   <appContext helpID="shelvingconcept" path="concepts/shelving.html"/>
-   <appContext helpID="snowshovelconcept" path="concepts/snowshovel.html"/>
-   <appContext helpID="toolboxconcept" path="concepts/toolbox.html"/>
-   <appContext helpID="toolsconcept" path="concepts/tools.html"/>
-   <appContext helpID="waterhoseconcept" path="concepts/waterhose.html"/>
-   <appContext helpID="wheelbarrow" path="concepts/wheelbarrow.html"/>
-   <appContext helpID="workbenchconcept" path="concepts/workbench.html"/>
-   <appContext helpID="wwfluidconcept" path="concepts/wwfluid.html"/>
+   <appContext helpID="conceptconcept"
+               path="concepts/garageconceptsoverview.html#conceptconcept"/>
+   <appContext helpID="lawnmowerconcept"
+               path="concepts/garageconceptsoverview.html#lawnmowerconcept"/>
+   <appContext helpID="oilconcept"
+               path="concepts/garageconceptsoverview.html#oilconcept"/>
+   <appContext helpID="paintconcept"
+               path="concepts/garageconceptsoverview.html#paintconcept"/>
+   <appContext helpID="shelvingconcept"
+               path="concepts/garageconceptsoverview.html#shelvingconcept"/>
+   <appContext helpID="snowshovelconcept"
+               path="concepts/garageconceptsoverview.html#snowshovelconcept"/>
+   <appContext helpID="toolboxconcept"
+               path="concepts/garageconceptsoverview.html#toolboxconcept"/>
+   <appContext helpID="toolsconcept"
+               path="concepts/garageconceptsoverview.html#toolsconcept"/>
+   <appContext helpID="waterhoseconcept"
+               path="concepts/garageconceptsoverview.html#waterhoseconcept"/>
+   <appContext helpID="wheelbarrow"
+               path="concepts/garageconceptsoverview.html#wheelbarrow"/>
+   <appContext helpID="workbenchconcept"
+               path="concepts/garageconceptsoverview.html#workbenchconcept"/>
+   <appContext helpID="wwfluidconcept"
+               path="concepts/garageconceptsoverview.html#wwfluidconcept"/>
 </map>
