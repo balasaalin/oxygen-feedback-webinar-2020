@@ -13,10 +13,7 @@
     <topicref href="tasks/carMaintenance.dita" chunk="to-content">
         <topicmeta>
             <data name="wh-tile">
-                <data name="image" href="image/tiles/maintenance_big.png" format="png">
-                    <!--<data name="attr-width" value="64"/>
-                    <data name="attr-height" value="64"/>-->
-                </data>
+                <data name="image" href="image/tiles/maintenance_big.png" format="png"/>
             </data>  
         </topicmeta>
         <topicref href="tasks/changingtheoil.dita" type="task" audience="expert"/>
@@ -29,10 +26,7 @@
         chunk="to-content">
         <topicmeta>
             <data name="wh-tile">
-                <data name="image" href="image/tiles/tasks_big.png" format="png">
-                    <!--<data name="attr-width" value="64"/>
-                    <data name="attr-height" value="64"/>-->
-                </data>
+                <data name="image" href="image/tiles/tasks_big.png" format="png"/>
             </data>  
         </topicmeta>
         <topicref href="tasks/organizing.dita" type="task"/>
@@ -43,10 +37,7 @@
     <topicref href="concepts/garageconceptsoverview.dita" type="concept" chunk="to-content">
         <topicmeta>
             <data name="wh-tile">
-                <data name="image" href="image/tiles/concepts_big.png" format="png">
-                    <!--<data name="attr-width" value="64"/>
-                    <data name="attr-height" value="64"/>-->
-                </data>
+                <data name="image" href="image/tiles/concepts_big.png" format="png"/>
             </data>  
         </topicmeta>
         <topicref href="concepts/lawnmower.dita" type="concept"/>
