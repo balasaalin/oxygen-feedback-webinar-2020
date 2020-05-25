@@ -317,7 +317,7 @@ a:hover {
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
-  min-height: 250px;
+  min-height: 300px;
   border-radius: 8px;
   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
 }
@@ -400,7 +400,7 @@ a:hover {
 /* ---------------------------------   */
 .wh_main_page .wh_content_area {
   background-color: transparent;
-  padding: 25vh 0 2em 0;
+  padding: 22vh 0 2em 0;
   color: #4E86D3;
   text-align: center;
   align-items: center;

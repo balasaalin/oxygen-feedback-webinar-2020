@@ -5,6 +5,17 @@
 My name is Alin Balasa.
 
 
+-------------------------------
+Agenda
+-------------------------------
+
+.....
+
+-------------------------------
+What is Oxygen Feedback
+-------------------------------
+
+
 Today I would like to show you how you can use one of the newest members of Oxygen Products Family to improve your online content.
 The featured application in my presentation is Oxygen Feedback which is a comment management platfom.
 It can be easily configured to be integrated in any website. 
@@ -37,7 +48,7 @@ You can run the WebHelp transformation directly from Oxygen using the predefinde
 You can automate the publishing process by configuring the WebHelp process to run on a Continous Integration server.
 This way you can have your documentation republished each time you update your content.
 
-I have configured my project for this presentation to use such an integration server (ie: Travis). I will show later on how it works. 
+I have configured my project for this presentation to use such an integration server (ie: Travis). I will show you later on how it works. 
 
 The WebHelp ouput has a responsive layout which adapts to any device and screen size.
 It offers support for customizations and extensibility. 
@@ -71,8 +82,6 @@ I will also choose the moderation settings and have to decide if I want to allow
 The second step is dedicated to the new site's initial version.
 Each site configuration can have multiple versions. This is useful if you plan 
 to have multiple versions of the output, for example when publishing technical documentation for a product that has multiple released versions.
-
-If you do not plan to have multiple versions, you can leave the initial version as 1.0 as I will do.
 
 On this page you will have to specify the base URL of your website. This is very important, because the comments will only be displayed on the pages within the hierarchy of this base URL.
 I will fill in the URL where my sample documentation is deployed.
