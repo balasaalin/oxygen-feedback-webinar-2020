@@ -12,7 +12,7 @@ Some of the topics covered in this webinar include:
 - Oxygen integration - accessing the comments stream directly in Oxygen
 
 ## Additional resources:
-- The slides are available at: ...
+- The slides are available at: https://docs.google.com/presentation/d/1KbvQVfE99XQYrIYQxnux8pxmeB9mylwnB6M2FYZCPSk/edit?usp=sharing
 - Published Output: [https://balasaalin.github.io/oxygen-feedback-webinar-2020/](https://balasaalin.github.io/oxygen-feedback-webinar-2020/)
 - Travis CI: 
 [https://travis-ci.com/balasaalin/oxygen-feedback-webinar-2020/](https://travis-ci.com/balasaalin/oxygen-feedback-webinar-2020/)
