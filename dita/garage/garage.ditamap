@@ -14,8 +14,8 @@
         <topicmeta>
             <data name="wh-tile">
                 <data name="image" href="image/tiles/maintenance_big.png" format="png">
-                    <data name="attr-width" value="64"/>
-                    <data name="attr-height" value="64"/>
+                    <!--<data name="attr-width" value="64"/>
+                    <data name="attr-height" value="64"/>-->
                 </data>
             </data>  
         </topicmeta>
@@ -30,8 +30,8 @@
         <topicmeta>
             <data name="wh-tile">
                 <data name="image" href="image/tiles/tasks_big.png" format="png">
-                    <data name="attr-width" value="64"/>
-                    <data name="attr-height" value="64"/>
+                    <!--<data name="attr-width" value="64"/>
+                    <data name="attr-height" value="64"/>-->
                 </data>
             </data>  
         </topicmeta>
@@ -40,12 +40,12 @@
         <topicref href="tasks/spraypainting.dita" type="task" audience="expert"/>
         <topicref href="tasks/takinggarbage.dita" type="task"/>
     </topicref>
-    <topicref href="concepts/garageconceptsoverview.dita" type="concept">
+    <topicref href="concepts/garageconceptsoverview.dita" type="concept" chunk="to-content">
         <topicmeta>
             <data name="wh-tile">
                 <data name="image" href="image/tiles/concepts_big.png" format="png">
-                    <data name="attr-width" value="64"/>
-                    <data name="attr-height" value="64"/>
+                    <!--<data name="attr-width" value="64"/>
+                    <data name="attr-height" value="64"/>-->
                 </data>
             </data>  
         </topicmeta>
