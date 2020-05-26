@@ -18,7 +18,7 @@
         </topicmeta>
         <topicref href="tasks/changingtheoil.dita" type="task" audience="expert"/>
         
-        <!--<topicref href="electric-cars/battery.dita"/>-->
+        <topicref href="electric-cars/battery.dita"/>
         
         <topicref href="tasks/washingthecar.dita" type="task"/>
     </topicref>
