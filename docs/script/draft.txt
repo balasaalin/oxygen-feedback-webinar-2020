@@ -19,7 +19,11 @@ What is Oxygen Feedback
 Today I would like to show you how you can use one of the newest members of Oxygen Products Family to improve your online content.
 The featured application in my presentation is Oxygen Feedback which is a comment management platfom.
 It can be easily configured to be integrated in any website. 
-It was mainly designed to be used within online documentation websites. 
+It was mainly designed to be used within online documentation websites.
+
+benficii:
+Oxygen Feedback is specialized for technical documentation and can easily be integrated with Oxygen XML Editor/Author to make it more efficient for content authors to manage comments and react to community feedback.
+ 
 
 ---------------------------------------------------------------------------------------
 -02- Scenario
