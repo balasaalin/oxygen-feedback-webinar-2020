@@ -190,14 +190,14 @@ Copyright (c) 1998-2020 Syncro Soft SRL, Romania.  All rights reserved.
                     <xsl:value-of select="$i18n_context/@xtrf"/>                            
                 </xsl:when>
                 <!-- For topics with chunk="to-content" -->
-                <xsl:when test="exists($i18n_context/topic/@xtrf)">
-                    <xsl:value-of select="$i18n_context/topic/@xtrf"/>                            
+                <xsl:when test="exists($i18n_context/*[contains(@class, ' topic/topic ')]/@xtrf)">
+                    <xsl:value-of select="$i18n_context/*[contains(@class, ' topic/topic ')]/@xtrf"/>                            
                 </xsl:when>
             </xsl:choose>                
         </xsl:variable>
         
         <xsl:choose>
-            <xsl:when test="exists($DITAMAP_URL) and exists($i18n_context) and exists($topicXTRF)">
+            <xsl:when test="exists($DITAMAP_URL) and exists($i18n_context) and normalize-space($topicXTRF)">
                 
                 <!-- Make the path relative in the context of the map -->
                 <xsl:variable name="relPath"
