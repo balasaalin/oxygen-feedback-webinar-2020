@@ -20,9 +20,6 @@
                 <exclude name="resources/**/*.git"/>
             </fileset>
         </resources>
-        <html-fragments>
-            <fragment file="feedback-fragment.xml" placeholder="webhelp.fragment.feedback"/>
-        </html-fragments>
         <xslt>
             <extension file="xsl/move-search-in-header.xsl" id="com.oxygenxml.webhelp.xsl.createMainPage"/>
             <extension file="xsl/move-search-in-header.xsl" id="com.oxygenxml.webhelp.xsl.dita2webhelp"/>
