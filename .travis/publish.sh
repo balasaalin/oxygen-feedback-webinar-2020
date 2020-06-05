@@ -8,8 +8,8 @@ USERNAME=`basename $PARENTDIR`
 
 # Writes the license key in a file
 # Assumes that $LICENSE_KEY contains the license key with all /n's replaced by @@
-printf "%s" "$LICENSE_KEY_LF" > tools/oxygen-publishing-engine-3.x/licensekey.txt
-#sed -i 's/@@/\n/g' tools/oxygen-publishing-engine-3.x/licensekey.txt
+printf "%s" "$LICENSE_KEY" > tools/oxygen-publishing-engine-3.x/licensekey.txt
+sed -i 's/@@/\n/g' tools/oxygen-publishing-engine-3.x/licensekey.txt
 
 
 # Send some parameters to the "editlink" plugin as system properties
